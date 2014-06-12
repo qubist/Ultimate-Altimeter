@@ -20,7 +20,7 @@
 #include <Wire.h>
 #include "MPL3115A2.h"
 #include "SevSeg.h"
-#include <Bounce.h>
+#include <Bounce2.h>
 
 //#define SERIAL_DEBUG //Used for activating Serial Debugging
 

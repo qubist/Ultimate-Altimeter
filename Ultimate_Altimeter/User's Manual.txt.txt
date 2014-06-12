@@ -1,3 +1,4 @@
+
 Ultimate Altimeter Users Manual
 
 1. Battery and Charging
@@ -14,6 +15,9 @@ Ultimate Altimeter Users Manual
     B. Input Mechanisms
          I. The button on the back of the Ultimate Altimeter is used to change modes. Press it once to cycle through to the next mode. 
          II. The switch on the Ultimate Altimeter turns it on and off.
+	C. Because the altitude sensor uses air pressure to measure altitude, strong winds or gusts may affect the readings on the Ultimate Altimeter. This can be seen by turning on the Ultimate Altimeter and blowing on it. The reading for current altitude should drop. This happens because the strong gust of air creates a negative pressure. This can be avoided in flight by placing the Ultimate Altimeter in a cargo compartment or other wind-protected area to keep it out of strong gusts of wind. This is not a necessity though; in test flights with no wind protection, measurements only wavered a couple of feet, and the "Difference Mode" was not affected.
 3. A full guide on how to construct an Ultimate Altimeter is available at this link: http://www.instructables.com/id/ECV5M8LHW8SZH47/
+
+
 
 The Ultimate Altimeter was designed and created by qubist (/u/qubist1 on reddit).
